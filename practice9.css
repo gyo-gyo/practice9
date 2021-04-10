@@ -70,10 +70,11 @@ footer {
   }
   .section-box {
     width: 90%;
-    margin-bottom: 20px;
+    margin: 0px auto 50px;
     align-items: center;
   }
   .section-box:last-child {
     margin-bottom: 0;
+    margin-right: 38px;
   }
 }
